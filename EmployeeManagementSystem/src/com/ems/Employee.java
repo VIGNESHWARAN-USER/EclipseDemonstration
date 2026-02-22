@@ -1,5 +1,10 @@
 package com.ems;
 
 public class Employee {
-	private String empID;
+	private String empId;
+	private String name;
+	private double salary;
+	
+	
+
 }
